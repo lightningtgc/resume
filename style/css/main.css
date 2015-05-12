@@ -4,11 +4,20 @@
 }
 
 .header {
-
+    display: -webkit-box;
+    -webkit-box-align: center;
+    -webkit-box-orient: vertical;
+    padding: 20px;
+    background-color: #00bcd4;
 }
 .avator {
     border-radius: 100%;
     width: 80px;
     height: 80px;
-    background:url(../images/avator.png) no-repeat;
+    background:url(../images/avator.jpeg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.contact {
+    
 }
