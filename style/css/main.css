@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.header {
+
+}
+.avator {
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    background:url(../images/avator.png) no-repeat;
+}
